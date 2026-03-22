@@ -50,7 +50,7 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 ### Working demo
 
 <p align="center">
-  <video src="docs/newdemovid.mp4" controls width="300"></video>
+  <video src="https://raw.githubusercontent.com/harsh-space/glanceAR/main/docs/newdemovid.mp4" controls width="300"></video>
 </p>
 
 ---
