@@ -1,0 +1,37 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/Layouts/
+
+# Unity cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# APK output
+*.apk
+*.aab
