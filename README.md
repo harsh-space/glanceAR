@@ -28,26 +28,24 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 
 ### Screenshots
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="docs/splash.png" alt="Splash Screen" width="200" height="350"><br>
-        <sub><b>Splash Screen</b> — App startup animation</sub>
-      </td>
-      <td align="center">
-        <img src="docs/ar-view.png" alt="AR View" width="200" height="350"><br>
-        <sub><b>AR View</b> — Live news headlines overlaid on the target image</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="docs/categories.png" alt="Category Filters" width="300" height="200"><br>
-        <sub><b>Category Filters</b> — Switch between All, Tech, Business, and Sports</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/splash.png" alt="Splash Screen" width="200" height="350"><br>
+      <sub><b>Splash Screen</b> — App startup animation</sub>
+    </td>
+    <td align="center">
+      <img src="docs/ar-view.png" alt="AR View" width="200" height="350"><br>
+      <sub><b>AR View</b> — Live news headlines overlaid on the target image</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="docs/categories.png" alt="Category Filters" width="300" height="200"><br>
+      <sub><b>Category Filters</b> — Switch between All, Tech, Business, and Sports</sub>
+    </td>
+  </tr>
+</table>
 
 ### Working demo
 
