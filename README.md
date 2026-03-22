@@ -50,10 +50,7 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 ### Working demo
 
 <p align="center">
-  <a href="docs/demovid.mp4">
-    <img src="docs/ar-view.png" alt="Watch Demo Video" width="250"><br>
-    <sub>▶ Click to watch the demo</sub>
-  </a>
+  <video src="docs/newdemovid.mp4" controls width="300"></video>
 </p>
 
 ---
