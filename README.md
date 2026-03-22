@@ -50,7 +50,7 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 ### Working demo
 
 <p align="center">
-  <a href="https://youtube.com/shorts/gcAnhQO6dzU">
+  <a href="https://youtube.com/shorts/CR_7Ip7rV3I?feature=share">
     <img src="docs/ar-view.png" alt="Watch Demo Video" width="300">
     <br>
     <sub>▶ Click to watch the demo on YouTube</sub>
@@ -170,5 +170,3 @@ The app was fetching new data but not showing it on screen. Separated the data f
 - **Offline mode** — Would cache headlines so the app works without internet.
 - **Multiple targets** — Would make different images trigger different news categories.
 - **Loading indicator** — Would add a spinner while fetching news instead of just freezing.
- 
----
