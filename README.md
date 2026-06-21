@@ -50,11 +50,7 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 ### Working demo
 
 <p align="center">
-  <a href="https://youtube.com/shorts/CR_7Ip7rV3I?feature=share">
-    <img src="docs/ar-view.png" alt="Watch Demo Video" width="300">
-    <br>
-    <sub>▶ Click to watch the demo on YouTube</sub>
-  </a>
+  <video src="https://mhjpeevswzuiquca.public.blob.vercel-storage.com/glanceAR_demo.mp4" width="200" height="300" controls></video>
 </p>
 
 ---
