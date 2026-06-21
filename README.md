@@ -49,9 +49,9 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 
 ### Working demo
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/6519b1bc-ae2b-4b06-b9f5-cb1525a95107" width="200" height="300" controls></video>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/6519b1bc-ae2b-4b06-b9f5-cb1525a95107?type=video" width="200" height="300" controls></video>
+</div>
 
 ---
  
