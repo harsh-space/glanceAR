@@ -50,7 +50,7 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
 ### Working demo
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/6519b1bc-ae2b-4b06-b9f5-cb1525a95107?type=video" width="200" height="300" controls></video>
+  <video src="https://github.com/user-attachments/assets/18f31b82-98b5-46fb-b5bc-5dad4cb1b7fd" width="200" height="300" controls></video>
 </div>
 
 ---
