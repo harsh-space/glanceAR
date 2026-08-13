@@ -1,4 +1,4 @@
-# GlanceAR
+# GlanceAR ![College Project](https://img.shields.io/badge/type-College%20Project-purple)
  
 ## AR news reader built with Unity and Vuforia
  
@@ -47,23 +47,58 @@ As part of the team, I focused on designing the UI, planning the user flow, and 
   </tr>
 </table>
 
+<p align="center">
+  <em>Figure 1: GlanceAR screenshots — splash screen, AR view with live headlines, and category filter switching</em>
+</p>
+
 ### Working demo
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/18f31b82-98b5-46fb-b5bc-5dad4cb1b7fd" width="200" height="300" controls></video>
+  <br/>
+  <em>Working demo of GlanceAR — scan, AR view, and category filtering in action</em>
 </div>
 
 ---
  
 ## Tech Stack
- 
-| What | Technology |
-|---|---|
-| **Game Engine** | Unity 6.0 |
-| **AR Framework** | Vuforia SDK 11.4.4 |
-| **Language** | C# |
-| **API** | NewsAPI |
-| **Platform** | Android |
+
+<div align="center">
+
+<table width="100%" style="text-align: center; border-collapse: collapse;">
+  <thead>
+    <tr style="border-bottom: 2px solid #ccc;">
+      <th style="padding: 10px;">What</th>
+      <th style="padding: 10px;">Technology</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><b>Game Engine</b></td>
+      <td style="padding: 10px;">Unity 6.0</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><b>AR Framework</b></td>
+      <td style="padding: 10px;">Vuforia SDK 11.4.4</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><b>Language</b></td>
+      <td style="padding: 10px;">C#</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><b>API</b></td>
+      <td style="padding: 10px;">NewsAPI</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><b>Platform</b></td>
+      <td style="padding: 10px;">Android</td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top: 10px;"><b>Table 1. Technology stack.</b></p>
+
+</div>
  
 ---
 
@@ -129,8 +164,9 @@ git clone https://github.com/harsh-space/glanceAR.git
 **Target image:** The AR database is already included — no setup needed. Just print or display this image to trigger the AR view:
 
 <p align="center">
-  <img src="docs/target.jpg" alt="AR Target Image" width="250"><br>
-  <sub>Point your phone camera at this image to activate the AR experience</sub>
+  <img src="docs/target.jpg" alt="AR Target Image" width="250"/>
+  <br/>
+  <em>Figure 2: AR target image — point your phone camera at this to activate the AR experience</em>
 </p>
  
 ---
